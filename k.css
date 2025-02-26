@@ -1,0 +1,68 @@
+ <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: blue;
+        }
+        
+         .navbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: red;
+            padding: 1rem;
+        }
+        .navbar a {
+            color: white;
+            text-decoration: none;
+            padding: 0.5rem 1rem;
+        }
+        .navbar a:hover {
+            background-color: #575757;
+        }
+       
+        .showcase {
+            min-height: 400px;
+            text-align: center;
+            color: red;
+        }
+        .showcase h1 {
+            margin-top: 100px;
+            font-size: 55px;
+            margin-bottom: 10px;
+        }
+        .showcase p {
+            font-size: 45px;
+        }
+        .content {
+            padding: 20px;
+            background: red;
+        }
+        .content h2 {
+            text-align: center;
+            color: blue;
+        }
+        .content p {
+            text-align: justify;
+            color: black;
+        }
+        footer {
+            
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 20px;
+        }
+       
+        .Email a{
+              color: red;
+            text-decoration: none;
+            padding: 0.5rem 1rem;
+        }
+        .Email a:hover{
+            background-color: pink;
+            color: black;
+        }
+    </style>
